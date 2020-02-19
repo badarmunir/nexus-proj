@@ -1,0 +1,3 @@
+FirstName  FatherName  Cnic                   Votingid            Phonenumber
+aa      aa       aa         aa           aa
+aa      aa       aa         aa           aa
